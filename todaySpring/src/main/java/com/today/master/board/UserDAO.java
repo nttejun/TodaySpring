@@ -1,7 +1,5 @@
 package com.today.master.board;
 
-import org.springframework.jdbc.core.ConnectionCallback;
-
 import java.sql.Connection;
 
 /**
