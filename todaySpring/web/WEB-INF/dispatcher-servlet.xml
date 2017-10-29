@@ -9,6 +9,6 @@
     </bean>
 
     <bean class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping"/>
-    <bean name="/today" class="com.today.ClientController"/>
+    <bean name="/today" class="com.today.master.BackendController"/>
 
 </beans>
